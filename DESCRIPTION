@@ -35,8 +35,7 @@ Imports:
     sf,
     geojsonsf, 
     broom,
-    geojsonio, 
-    rgeos  
+    geojsonio
 Suggests: 
     usmap
 LazyData: true
